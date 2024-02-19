@@ -10,17 +10,17 @@
 
 ###### **Đây là một phần quan trọng của hệ thống blockchain vì nó giải quyết một số vấn đề chính sau:**
 
-**1._Đảm bảo tính nhất quán_**
-**2._Bảo mật_**
-**3._Phân quyền và khả năng mở rộng_**
-**4._Tránh tình trạng forking_**
+**1._Đảm bảo tính nhất quán_**<br>
+**2._Bảo mật_**<br>
+**3._Phân quyền và khả năng mở rộng_**<br>
+**4._Tránh tình trạng forking_**<br>
 
 ## Các loại Consensus Protocols
 
-  ##### Hiện nay có nhiều loại cơ chế đồng thuận được sử dụng trong các hệ thống blockchain như : 
-  1. PoW (Proof of Work)
-  2. PoS (Proof of Stake)
-  3. DPoS (Delegated Proof of Stake)
-  ,...
-  ![alt text](https://contenthub-static.crypto.com/cdn-cgi/image/width=800,quality=75/wp_media/2023/03/Consensus-Mechanisms-in-Blockchain_Infographic_Mar14.jpeg) 
-  
+##### Hiện nay có nhiều loại cơ chế đồng thuận được sử dụng trong các hệ thống blockchain như :
+
+1. PoW (Proof of Work)
+2. PoS (Proof of Stake)
+3. DPoS (Delegated Proof of Stake)
+   ,...
+   ![alt text](https://contenthub-static.crypto.com/cdn-cgi/image/width=800,quality=75/wp_media/2023/03/Consensus-Mechanisms-in-Blockchain_Infographic_Mar14.jpeg)

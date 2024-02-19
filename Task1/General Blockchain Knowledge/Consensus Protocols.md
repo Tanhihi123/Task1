@@ -22,5 +22,5 @@
   2. PoS (Proof of Stake)
   3. DPoS (Delegated Proof of Stake)
   ,...
-  ![alt text](image.png) 
+  ![alt text](https://contenthub-static.crypto.com/cdn-cgi/image/width=800,quality=75/wp_media/2023/03/Consensus-Mechanisms-in-Blockchain_Infographic_Mar14.jpeg) 
   
